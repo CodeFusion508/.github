@@ -1,7 +1,5 @@
 # CodeFusion508
 
-![CodeFusion508 Logo](logo.png)
-
 Welcome to CodeFusion508, where we believe in **empowering students** 🚀, primarily from **Spanish-speaking countries** 🌎, to learn about **full-stack web development** 💻. Our mission is to create websites and similar projects that provide valuable resources and educational opportunities for aspiring web developers.
 
 ## About Us
@@ -21,15 +19,13 @@ To get started with contributing, please refer to our [Contribution Guidelines](
 
 ## Resources
 
-- **Website** 🌐: Visit our website at [www.codefusion508.org](https://www.codefusion508.org) to explore our projects, find learning resources, and connect with the community.
-- **Documentation** 📖: Find our comprehensive documentation and tutorials at [docs.codefusion508.org](https://docs.codefusion508.org). Here you'll find step-by-step guides, code samples, and best practices to help you master full-stack web development.
-- **Social Media** 📱: Follow us on Twitter [@CodeFusion508](https://twitter.com/CodeFusion508) for the latest updates, announcements, and helpful tips related to web development.
-- **Community Forum** 🌟: Join our community forum at [forum.codefusion508.org](https://forum.codefusion508.org) to engage in discussions, ask questions, and collaborate with other learners and professionals in the field.
+- **Website** 🌐: Visit our website at [codefusion-frontend.web.app/](https://codefusion-frontend.web.app/) to explore our projects, find learning resources, and connect with the community.
+<!-- - **Documentation** 📖: Find our comprehensive documentation and tutorials at [docs.codefusion508.org](https://docs.codefusion508.org). Here you'll find step-by-step guides, code samples, and best practices to help you master full-stack web development. -->
+<!-- - **Social Media** 📱: Follow us on Twitter [@CodeFusion508](https://twitter.com/CodeFusion508) for the latest updates, announcements, and helpful tips related to web development. -->
+<!-- - **Community Forum** 🌟: Join our community forum at [forum.codefusion508.org](https://forum.codefusion508.org) to engage in discussions, ask questions, and collaborate with other learners and professionals in the field. -->
 
 ## Fun Facts
 
-- Our team enjoys a variety of breakfast options, from classic bacon and eggs 🥓🍳 to delicious pastries and fresh fruits 🥐🍓. We believe in starting the day with a good meal to fuel our creativity and productivity.
+- Our team enjoys a variety of breakfast options, from mouthwatering tacos 🌮 and flavorful burritos 🌯. We believe in starting the day with a good meal to fuel our creativity and productivity.
 
 We are excited to have you on board and look forward to your contributions in helping students from Spanish-speaking countries explore the world of full-stack web development. Together, we can make a difference and empower the next generation of web developers.
-
-**Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and
