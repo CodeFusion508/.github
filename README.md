@@ -1,3 +1,3 @@
-# TPublic README to CodeFusion508
+# Public README to CodeFusion508
 
 This is the a repo to contain the public README of CodeFusion508
